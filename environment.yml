@@ -36,13 +36,13 @@ dependencies:
   - pip=20.1.1=py37_1
   - pycparser=2.20=py_0
   - python=3.7.7=hcff3b4d_5
-  - pytorch=1.1.0=py3.7_cuda10.0.130_cudnn7.5.1_0
+  - pytorch
   - readline=8.0=h7b6447c_0
   - setuptools=47.3.1=py37_0
   - six=1.15.0=py_0
   - sqlite=3.32.3=h62c20be_0
   - tk=8.6.10=hbc83047_0
-  - torchvision=0.3.0=py37_cu10.0.130_1
+  - torchvision
   - wheel=0.34.2=py37_0
   - xz=5.2.5=h7b6447c_0
   - zlib=1.2.11=h7b6447c_3
@@ -52,5 +52,4 @@ dependencies:
     - opencv-python==4.2.0.32
     - protobuf==3.12.2
     - tensorboardx==2.1
-prefix: /home/adarsh/anaconda3/envs/spikeflownet
-
+prefix: /home/yeliu/anaconda3/envs/spikeflownet
